@@ -64,6 +64,11 @@
 3. Metaphor
    - Increased ambiguity
    - Recipient can project their affect onto this ambiguity
-   - Here `meaning` become `participatory`
+   - Here `meaning` becomes `participatory`
+   - Crux of the matter is `empowering` a client or `Principal` to regain `Agency`
+   - Typically "informed" consent
+   - Which really is a beautifully curated [dataset](https://github.com/abikesa/datasets)
+   - Sophistication, analytic capability, reaching inferences: give client the tools to achieve this
+   - Nike, Apple, Microsoft, and Bloomberg have business models explicitly founded on this
   
 
