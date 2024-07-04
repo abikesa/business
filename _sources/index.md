@@ -41,16 +41,16 @@ Here, $C$ is the call option price, $S_0$ is the current stock price, $X$ is the
 ## `Efficient-Market Hypothesis`
 
 ### Null 1, 2, 3
-- `Voir`: What has seemed chaotic has been tamed using **parameters** (which can also generate chaos -- i.e., data -- in simulation)
-- `Savoir`: Frenzy vs. logic might be a matter of "compute"; so god doesn't play dice?
-- `Pouvoir`: Infrastructure and architecture for "compute"
+- `Voir`: Random brownian motion as seen in digital information from Bloomberg Terminal; $\text{H}_0:$ `logHR=0`
+- `Savoir`: Compute may find patterns than Eugene Fama's mind couldn't
+- `Pouvoir`: $\mu | \text{X}\beta$ ; $\sigma | t$; two overlayed multivariable _Kaplan-Meier's_
 
 ### Sing O Muse 4
-- `Unpredictable`: Yet machine-learning, digital information, and extraordinary "compute" do yield better returns than the null-hypothesis might support
+- `Unpredictable`: Estimates **conditional** on factors millions of orders of magnitude more than human mind "tameth"; no wonder there's been **gnashing of teeth**
 
 ### Alternative 5, 6
-- `Identity`: Quants, programmers, and algorithms may win the day since "chaos" & "random" merely reflect the limits of human comprehension
-- `Achievements`: Using super-human `AI` capabilities of machines to handle $N^N$ **parameters**, [Jim Simmons](https://en.wikipedia.org/wiki/Jim_Simons#Controversies) left his mark
+- `Identity`: Some quants, programmers, and algorithms have produced better returns than the null-hypothesis over decades
+- `Achievements`: Using super-human `AI` capabilities of machines to handle $N^N$ **parameters**, [Jim Simmons](https://en.wikipedia.org/wiki/Jim_Simons#Controversies) is the best way to summarize this
 
 #### Table of Contents
 
