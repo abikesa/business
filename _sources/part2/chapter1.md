@@ -1,6 +1,32 @@
 (fw-aim1)=
 # WebApp
 
+## GitHub branches 
+
+“I’m going to motivate this thesis by talking about three end-users (or targets)”:
+
+### Dionysus 1, 2, 3 (Target)
+- Patients
+- Caregivers
+- Developers & Students
+
+### Sing O Muse 4 (Product)
+- WebApp
+
+### Apollo 5, 6 (Dependencies)
+- Risk: Mortality & Kidney Failure 
+- Sentinel: Hospitalization 
+
+
+Each JHU repo dedicated to one dataset 
+One repo dedicated to all `s0`, `b`, `V`
+
+The App only has SV (from dictation, patient notes, drop-down menu)
+
+`s0` -> accelerated failure time manipulation, as seen with _Black-Schole-sMorton_
+
+#
+
 ```
       1. Construct
                   \
